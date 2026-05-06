@@ -6,7 +6,7 @@
 ## unit3: kinematics 2D
 ## unit4: Newton's laws
 ## unit5: Application of Newton's laws
-## unit6: work-energy theroem, power , PE
+## unit6: work-energy theroem, power , PE, simple harmonic motion
 ## unit7:  conservation energy
 ## unit8: linear momentum, conservation
 ## unit9: torques, equilibrium
